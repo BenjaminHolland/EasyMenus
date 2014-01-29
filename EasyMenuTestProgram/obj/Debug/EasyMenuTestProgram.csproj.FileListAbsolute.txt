@@ -1,0 +1,8 @@
+C:\Users\ginkn_000\Documents\Visual Studio 2012\Projects\EasyMenus\EasyMenuTestProgram\bin\Debug\EasyMenuTestProgram.exe.config
+C:\Users\ginkn_000\Documents\Visual Studio 2012\Projects\EasyMenus\EasyMenuTestProgram\obj\Debug\EasyMenuTestProgram.csprojResolveAssemblyReference.cache
+C:\Users\ginkn_000\Documents\Visual Studio 2012\Projects\EasyMenus\EasyMenuTestProgram\bin\Debug\EasyMenuTestProgram.exe
+C:\Users\ginkn_000\Documents\Visual Studio 2012\Projects\EasyMenus\EasyMenuTestProgram\bin\Debug\EasyMenuTestProgram.pdb
+C:\Users\ginkn_000\Documents\Visual Studio 2012\Projects\EasyMenus\EasyMenuTestProgram\bin\Debug\EasyMenus.dll
+C:\Users\ginkn_000\Documents\Visual Studio 2012\Projects\EasyMenus\EasyMenuTestProgram\bin\Debug\EasyMenus.pdb
+C:\Users\ginkn_000\Documents\Visual Studio 2012\Projects\EasyMenus\EasyMenuTestProgram\obj\Debug\EasyMenuTestProgram.exe
+C:\Users\ginkn_000\Documents\Visual Studio 2012\Projects\EasyMenus\EasyMenuTestProgram\obj\Debug\EasyMenuTestProgram.pdb

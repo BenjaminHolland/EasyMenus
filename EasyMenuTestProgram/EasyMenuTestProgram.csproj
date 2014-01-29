@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BDF1FD53-E99D-4954-A302-2E0656B0758F}</ProjectGuid>
+    <ProjectGuid>{BF405186-6492-4582-B94C-6F0BC6E7499E}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MenuTree</RootNamespace>
-    <AssemblyName>MenuTree</AssemblyName>
+    <RootNamespace>EasyMenuTestProgram</RootNamespace>
+    <AssemblyName>EasyMenuTestProgram</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -46,6 +46,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EasyMenus\EasyMenus.csproj">
+      <Project>{bdf1fd53-e99d-4954-a302-2e0656b0758f}</Project>
+      <Name>EasyMenus</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuTree", "MenuTree\MenuTree.csproj", "{BDF1FD53-E99D-4954-A302-2E0656B0758F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyMenus", "EasyMenus\EasyMenus.csproj", "{BDF1FD53-E99D-4954-A302-2E0656B0758F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyMenuTestProgram", "EasyMenuTestProgram\EasyMenuTestProgram.csproj", "{BF405186-6492-4582-B94C-6F0BC6E7499E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +15,10 @@ Global
 		{BDF1FD53-E99D-4954-A302-2E0656B0758F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDF1FD53-E99D-4954-A302-2E0656B0758F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDF1FD53-E99D-4954-A302-2E0656B0758F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF405186-6492-4582-B94C-6F0BC6E7499E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF405186-6492-4582-B94C-6F0BC6E7499E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF405186-6492-4582-B94C-6F0BC6E7499E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF405186-6492-4582-B94C-6F0BC6E7499E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

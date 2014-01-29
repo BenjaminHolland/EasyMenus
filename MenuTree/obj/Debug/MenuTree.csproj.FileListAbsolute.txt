@@ -1,6 +1,0 @@
-c:\users\ginkn_000\documents\visual studio 2012\Projects\MenuTree\MenuTree\bin\Debug\MenuTree.exe.config
-c:\users\ginkn_000\documents\visual studio 2012\Projects\MenuTree\MenuTree\obj\Debug\MenuTree.csprojResolveAssemblyReference.cache
-c:\users\ginkn_000\documents\visual studio 2012\Projects\MenuTree\MenuTree\bin\Debug\MenuTree.exe
-c:\users\ginkn_000\documents\visual studio 2012\Projects\MenuTree\MenuTree\bin\Debug\MenuTree.pdb
-c:\users\ginkn_000\documents\visual studio 2012\Projects\MenuTree\MenuTree\obj\Debug\MenuTree.exe
-c:\users\ginkn_000\documents\visual studio 2012\Projects\MenuTree\MenuTree\obj\Debug\MenuTree.pdb
